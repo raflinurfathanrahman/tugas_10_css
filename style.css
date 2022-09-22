@@ -1,0 +1,17 @@
+body {
+    min-height: 100vh;
+    background-color: white;
+    background-image: linear-gradient(to top right, red, white);
+} 
+.satu {
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    background-image: radial-gradient(ellipse at bottom, white 5%, blue 90%)
+} 
+.dua {
+    width: 500px;
+    height: 150px;
+    margin: 0 auto;
+    background-image: linear-gradient(to right, white,blue 50%,white);
+} 
